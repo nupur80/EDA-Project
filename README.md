@@ -6,7 +6,6 @@ ___
 ```
 print("Hello World")
 ```
-This is my Repository
 ---
 - point 1
 # Title 1
